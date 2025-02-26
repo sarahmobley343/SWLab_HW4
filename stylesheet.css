@@ -11,7 +11,7 @@ body {
     color: #4a4a4a;
 }
 
-#gallery {
+.images {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -41,8 +41,8 @@ body {
 }
 
 a {
-    color: #4a4a4a;
-    text-decoration: none;
+    color: #000000;
+    text-decoration: underline;
 }
 
 a:hover {
